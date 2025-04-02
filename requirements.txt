@@ -1,0 +1,2 @@
+numpy
+provizio-dds @ git+https://github.com/provizio/provizio_dds.git@v2025.02.25
